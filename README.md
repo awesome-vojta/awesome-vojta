@@ -2,7 +2,7 @@
 - 👀 Interested in Java programming, AI, Bitcoin, Economy
 - 🌱 Student of Applied Informatics at Prague University of Economics and Business (bachelor's degree)
 - 🐱‍🏍 Part-time Junior Java Developer at CGI (since 2018)
-- 📫 How to reach me: vojtechkuzdas@gmail.com, kuzv06@vse.cz
+- 📫 How to reach me: kuzv06@vse.cz
 
 <!---
 awesome-vojta/awesome-vojta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
