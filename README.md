@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vojtěch Kuzdas
-- 👀 Interested in Java programming, AI, Bitcoin, Economy
+
 - 🌱 Student of Software Engineering at CTU (master's degree)
 - 🐱‍🏍 Part-time Junior Java Developer at CGI (since 2018)
 - 📫 How to reach me: kuzdavoj@fel.cvut.cz
