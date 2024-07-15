@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Vojtěch Kuzdas
 
-- 🌱 Student of Software Engineering at CTU (master's degree)
-- 🐱‍🏍 Part-time Junior Java Developer at CGI (since 2018)
-- 📫 How to reach me: kuzdavoj@fel.cvut.cz
+- 🌱 Recently got my Master's degree at FEL CTU
+- 🐱‍🏍 Worked for 6 years as Java Developer at CGI (part-time)
 
 <!---
-awesome-vojta/awesome-vojta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+vkuzdas/vkuzdas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
