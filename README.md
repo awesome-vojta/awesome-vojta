@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vojtěch Kuzdas
 
-- 🌱 Recently got my Master's degree at FEL CTU
+- 🌱 Recently got my Master's at FEL CTU
 - 🐱‍🏍 Worked for 6 years as Java Developer at CGI (part-time)
 
 <!---
